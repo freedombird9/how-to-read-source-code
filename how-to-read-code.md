@@ -2,6 +2,8 @@
 
 中文翻译：
 
+[在博客中查看]
+
 这篇文章基于我在Oneshot Nodeconf Christchurch的一个演讲。
 
 我本来没有想要写这篇文章。程序员不读源代码听起来似乎是很荒谬的。然后我真遇到了一群不读源代码的程序员。接着我又跟更多的人进行了交谈，发现他们除了读代码示例或测试脚本之外什么也不看。最重要的是，我遇到过很多新手程序员，对他们来说，找到从哪个地方开始阅读是非常困难的。
@@ -447,3 +449,4 @@ true      | true       | FINISHED
 是时候开始读源代码了，Enjoy！
 
 [How To Read Source Code]: https://github.com/aredridel/how-to-read-code/blob/master/how-to-read-code.md
+[在博客中查看]: http://blog.yongfengzhang.com/cn/blog/how-to-read-source-code/
